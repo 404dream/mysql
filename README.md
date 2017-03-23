@@ -4,7 +4,7 @@
 
 先完成第四部分：Tutorial的翻译。
 
-gitbook:[https://mr-try.gitbooks.io/mysql5-7/content/](https://mr-try.gitbooks.io/mysql5-7/content/)
+gitbook:[https://404dream.gitbooks.io/mysql/content/](https://404dream.gitbooks.io/mysql/content/)
 
 ---
 
