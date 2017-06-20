@@ -31,4 +31,14 @@
     * [4.6.8 每天计算访问量](chapter1/examples-of-common-queries/calculating-visits-per-day.md)
     * [4.6.9 使用自增属性](chapter1/examples-of-common-queries/using-autoincrement.md)
   * [4.7 在Apache中使用MySql](chapter4/using-mysql-with-apache.md)
+* [第五章：MySQL程序](mysqlcheng-xu.md)
+  * [5.1 MySQL程序概述](mysqlcheng-xu/51-mysqlcheng-xu-gai-shu.md)
+  * 5.2 使用MySQL程序
+  * 5.3 MySQL服务器和服务器启动程序
+  * 5.4 MySQL安装相关程序
+  * 5.5 MySQL客户端程序
+  * [5.6 MySQL管理和实用程序](mysqlcheng-xu/56-mysqlguan-li-he-shi-yong-cheng-xu.md)
+  * 5.7 MySQL程序开发实用程序
+  * 5.8 杂项计划
+  * 5.9 MySQL程序环境变量
 
